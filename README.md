@@ -13,7 +13,7 @@
   - 📫 Drop me a hello here ...**coopandmgc@gmail.com**    
 
   <td>
-<a href="https://app.daily.dev/YesCoops"><img src="https://api.daily.dev/devcards/e7de46e3fb3d4165a225c54f796b8414.png?r=xwn" width="500" alt="Matt Cooper's Dev Card"/></a>
+<a href="https://app.daily.dev/YesCoops"><img src="https://api.daily.dev/devcards/e7de46e3fb3d4165a225c54f796b8414.png?r=zcl" width="400" alt="Matt Cooper's Dev Card"/></a>
   </td>
   
 </tr>
