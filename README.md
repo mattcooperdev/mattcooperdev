@@ -4,7 +4,7 @@
 <tr>
   <td valign="center">
     
-  - 👀 I’m a buregoning **coder**, interested in **problem-solving**, design, writing electronic music and creating Generative Art with **creative coding**. 
+  - 👀 I’m a buregoning **coder**, interested in **front-end development**, design, writing electronic music and creating Generative Art with **creative coding**. 
     
   - 🌱 I’m currently studying a diploman in Full-Stack software development with Code Institute...currenly learning Django
     
