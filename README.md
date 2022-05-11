@@ -37,13 +37,14 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yescoops&theme=dracula&hide_border=true)
 
 <br>
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yescoops&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yescoops"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yescoops&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yescoops" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yescoops&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="yescoops"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yescoops&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="yescoops" /> </p>
 <br> 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yescoops&theme=dracula&hide_border=true" alt="yescoops" /> </p>
 
 ## GitHub Trophies
 
-<img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=yescoops&theme=onedark"/>
+<img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=yescoops&theme=dracula"/>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
