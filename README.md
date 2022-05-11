@@ -4,9 +4,9 @@
 <tr>
   <td valign="center">
     
-  - 👀 I’m a buregoning **coder**, interested in **front-end development**, design, writing electronic music and creating Generative Art with **creative coding**. 
+  - 👀 I’m a buregoning **coder**, interested in **front-end development**, **design**, writing electronic music and creating Generative Art with **creative coding**. 
     
-  - 🌱 I’m currently studying a diploman in Full-Stack software development with Code Institute...currenly learning Django
+  - 🌱 I’m currently studying a diploma in Full-Stack software development with Code Institute...currently creating a database-driven website with Django
     
   - 🎯 My goal is to collaborate on as much **open source projects** as possible and **connect with many more like-minded people**. 
     
