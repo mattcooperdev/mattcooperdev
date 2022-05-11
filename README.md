@@ -43,8 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yescoops&theme=onedark)](https://github.com/yescoops/github-profile-trophy)
-
+<img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=yescoops&theme=onedark"/>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
