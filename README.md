@@ -45,8 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 <img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=yescoops&theme=dracula"/>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Contact me
 
