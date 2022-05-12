@@ -34,8 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Stats📈 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yescoops&theme=dracula&hide_border=true)
-
 <br>
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yescoops&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="yescoops"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yescoops&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="yescoops" /> </p>
 <br> 
