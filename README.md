@@ -4,7 +4,7 @@
 <tr>
   <td valign="center">
     
-  - 👀 I’m a buregoning **coder**, interested in **front-end development**, **design**, writing electronic music and creating Generative Art with **creative coding**. 
+  - 👀 I’m a burgeoning **coder**, interested in **front-end development**, **design**, writing electronic music and creating Generative Art with **creative coding**. 
     
   - 🌱 I’m currently studying a diploma in Full-Stack software development with Code Institute...currently creating a database-driven website with Django
     
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <br> 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yescoops&theme=dracula&hide_border=true" alt="yescoops" /> </p>
 
-## GitHub Trophies
+## Trophies
 
 <img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=yescoops&theme=dracula"/>
 
