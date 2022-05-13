@@ -8,7 +8,7 @@
     
   - 🌱 I’m studying a diploma in Full-Stack software development with Code Institute...currently creating a database-driven website with Django
     
-  - 🎯 My goal is to **become a creative coder with strong desgin instintcs** and to **push conceptions on what the Internet should be**. 
+  - 🎯 My goal is to become a **creative coder with strong design instincts** and to **challenge preconceptions of what the Internet should be**. 
     
   - 📫 Drop me a hello here ...**coopandmgc@gmail.com**    
 
