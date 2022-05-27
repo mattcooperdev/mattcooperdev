@@ -10,10 +10,10 @@
     
   - 🎯 My goal is to become a **creative coder with strong design instincts** and to **challenge preconceptions of what the Internet should be**. 
     
-  - 📫 Drop me a hello here ...**coopandmgc@gmail.com**    
+  - 📫 Drop me a hello here ...**mattcooperdev@gmail.com**    
 
   <td>
-<a href="https://app.daily.dev/YesCoops"><img src="https://api.daily.dev/devcards/e7de46e3fb3d4165a225c54f796b8414.png?r=zcl" width="400" alt="Matt Cooper's Dev Card"/></a>
+<a href="https://app.daily.dev/mattcooperdev"><img src="https://api.daily.dev/devcards/e7de46e3fb3d4165a225c54f796b8414.png?r=4zk" width="400" alt="Matt Cooper's Dev Card"/></a>
   </td>
   
 </tr>
@@ -35,13 +35,13 @@ You can click the Preview link to take a look at your changes.
 ## Stats📈 
 
 <br>
-<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yescoops&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="yescoops"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yescoops&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="yescoops" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattcooperdev&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="mattcooperdev"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mattcooperdev&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="mattcooperdev" /> </p>
 <br> 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yescoops&theme=dracula&hide_border=true" alt="yescoops" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattcooperdev&theme=dracula&hide_border=true" alt="yescoops" /> </p>
 
 ## Trophies
 
-<img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=yescoops&theme=dracula"/>
+<img width="100%" height="100px" src="https://github-profile-trophy.vercel.app/?username=mattcooperdev&theme=dracula"/>
 
 
 ## Contact me
