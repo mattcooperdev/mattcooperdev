@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattcooperdev&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="mattcooperdev"/>  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mattcooperdev&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="mattcooperdev" /> </p>
 <br> 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattcooperdev&theme=dracula&hide_border=true" alt="yescoops" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattcooperdev&theme=dracula&hide_border=true" alt="mattcooperdev" /> </p>
 
 ## Trophies
 
