@@ -1,4 +1,4 @@
-# Hi, I'm Matthew <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">
+<!--- # Hi, I'm Matthew <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px">
 
 <table>
 <tr>
@@ -28,10 +28,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-origi
 - ### **Future learning plans**
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript logo" height="50px" width="50px" />
   
-<!---
+
 YesCoops/YesCoops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ## Stats📈 
 
@@ -48,3 +48,4 @@ You can click the Preview link to take a look at your changes.
 ## Contact me
 
 <a href="https://linkedin.com/in/matthew-cooper-dev"><img src="https://user-images.githubusercontent.com/88374843/164432984-7adb4e33-4e8a-4651-91bf-32537634a375.png" width="100px" alt="Matthew Cooper Linkedin profile">
+--->
