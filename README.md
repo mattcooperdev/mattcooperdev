@@ -5,6 +5,8 @@
 
 ### About Me
 
+Hey! I'm Matt 👋🏼
+
 I am a frontend developer with professional experience using React, JavaScript, CSS, Python (Django and Flask), PHP, SQL, Heroku and AWS. 
 
 Feel free to check them out my repos! 
@@ -20,7 +22,7 @@ I look forward to connecting with you and extending my network of like-minded, i
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/mattcooperdev/)
 
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' href='mailto:mattcooperdev@gmail.com'>]
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' href='mailto:mattcooperdev@gmail.com'>
 
 - - -
 
