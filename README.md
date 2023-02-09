@@ -1,11 +1,6 @@
-![Banner Image for Matt Cooper GitHub Profile]()
+![Banner Image for Matt Cooper GitHub Profile](https://github.com/mattcooperdev/mattcooperdev/blob/f7bc12a73c9e1425dae3bd0bf3b0a24647c5fee2/mc-profile-banner.png)
 
-# Matthew Cooper
-## Frontend Developer
-
-### About Me
-
-Hey! I'm Matt 👋🏼
+# Hey! I'm Matt 👋🏼
 
 I am a frontend developer with professional experience using React, JavaScript, CSS, Python (Django and Flask), PHP, SQL, Heroku and AWS. 
 
