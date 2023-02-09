@@ -4,9 +4,9 @@
 
 I am a frontend developer with professional experience using React, JavaScript, CSS, Python (Django and Flask), PHP, SQL, Heroku and AWS. 
 
-Feel free to check them out my repos! 
+Feel free to check out my repos below! 
 
-I am passionate and creative, honing my my craft every day building responsive web applications/websites. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
+I am passionate and creative, honing my craft every day by building responsive web applications/websites. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
 
 I look forward to connecting with you and extending my network of like-minded, inspiring people!
 
