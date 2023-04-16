@@ -6,9 +6,7 @@ I am a frontend developer with professional experience using React, JavaScript, 
 
 Feel free to check out my repos below! 
 
-I am passionate and creative, honing my craft every day by building responsive web applications/websites. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
-
-I look forward to connecting with you and extending my network of like-minded, inspiring people!
+I am honing my craft every day by building responsive web applications/websites. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
 
 - - -
 
@@ -94,11 +92,6 @@ I look forward to connecting with you and extending my network of like-minded, i
 #### 🔮 Personal Future Learning Plans
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-)
 - - - 
 
 
