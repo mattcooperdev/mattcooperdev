@@ -29,6 +29,7 @@ I am honing my craft every day by building responsive web applications/websites.
 
 #### 🎨 Designs & Wireframes
 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
@@ -82,16 +83,7 @@ I am honing my craft every day by building responsive web applications/websites.
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-**Setup:** 
-
-![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2021_14_inch-333333?style=for-the-badge&logo=apple&logoColor=white)
-![Firefox browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
 )
-
-
-#### 🔮 Personal Future Learning Plans
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - - - 
 
 
