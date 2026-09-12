@@ -2,11 +2,7 @@
 
 # Hey! I'm Matt 👋🏼
 
-I am a frontend developer with professional experience using React, JavaScript, CSS, Python (Django and Flask), PHP, SQL, Heroku and AWS. 
-
-Feel free to check out my repos below! 
-
-I am honing my craft every day by building responsive web applications/websites. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
+Dev stuff. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
 
 - - -
 
