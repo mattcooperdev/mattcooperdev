@@ -1,8 +1,6 @@
-![Banner Image for Matt Cooper GitHub Profile](https://github.com/mattcooperdev/mattcooperdev/blob/f7bc12a73c9e1425dae3bd0bf3b0a24647c5fee2/mc-profile-banner.png)
 
-# Hey! I'm Matt 👋🏼
+Dev stuff. 
 
-Dev stuff. I am currently delving into WebGL land through three.js and p5.js to create some interesting animated web interactivity. 
 
 - - -
 
